@@ -10,6 +10,3 @@ payload:
   - DOMAIN-KEYWORD,find_node
   - DOMAIN-KEYWORD,BitTorrent
   - DOMAIN-KEYWORD,announce_peer
-  - DOMAIN,tracker.cinefiles.info
-  - DOMAIN,t.audiences.me
-  - DOMAIN,t.pthome.net
