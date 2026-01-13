@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,announce.php?passkey=
+  - DOMAIN-KEYWORD,announce.php?authkey=
+  - DOMAIN-KEYWORD,announce?secure=
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,peer_id=
+  - DOMAIN-KEYWORD,info_hash
+  - DOMAIN-KEYWORD,get_peers
+  - DOMAIN-KEYWORD,find_node
+  - DOMAIN-KEYWORD,BitTorrent
+  - DOMAIN-KEYWORD,announce_peer
+  - DOMAIN,tracker.cinefiles.info
+  - DOMAIN,t.audiences.me
+  - DOMAIN,t.pthome.net
